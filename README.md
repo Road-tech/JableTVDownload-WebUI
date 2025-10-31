@@ -9,7 +9,7 @@ JableTV Download WebUI is a user-friendly web interface for downloading videos f
 - Clone this repository: 
 
 ``` bash
-git clone --recurse-submodules git@github.com:ihainan/JableTVDownload-WebUI.git
+git clone https://github.com/Road-tech/JableTVDownload-WebUI.git
 ```
 
 - Modify the docker-compose.yml file:
